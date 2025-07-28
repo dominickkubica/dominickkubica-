@@ -30,5 +30,5 @@ Cloud: `GCP` • Big‑data: `PySpark`, `Snowflake` • Orchestration: `
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominickkubica&layout=compact" height="160">
 </p>
 
-> _“Build cool stuff, lift heavy things, stay curious.”_
+> _Build cool stuff, lift heavy things_
 
