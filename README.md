@@ -16,7 +16,7 @@
 `Python` | `SQL` | `PyTorch / TensorFlow` | `Scikit‑learn` | `Streamlit` | `LangChain`  
 Cloud: `GCP` • Big‑data: `PySpark`, `Snowflake` • Orchestration: `Airflow` (basic)
 
-### 📌 My favorite Projects
+###  My favorite Projects
 | Project | Tech | Live / Demo |
 |---------|------|-------------|
 | **MSFT Streamlit**: Earnings‑call sentiment dashboard | Python, Streamlit, Scikit‑learn | [Demo Video](#) |
@@ -24,7 +24,7 @@ Cloud: `GCP` • Big‑data: `PySpark`, `Snowflake` • Orchestration: `
 | **Gesture Field**: Point‑to‑Power stereo‑vision controller | Python, ZED SDK, OpenCV, Zigbee API | [Watch Demo](#) |
 | **AI Cover Letter Bot** | GPT‑4, LangChain, Streamlit | [Try Here](#) |
 
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dominickkubica&show_icons=true&theme=default" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominickkubica&layout=compact" height="160">
