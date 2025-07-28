@@ -1,4 +1,3 @@
-# dominickkubica-
 <h1 align="center">Hey, I'm Dominick !</h1>
 
 <p align="center">
